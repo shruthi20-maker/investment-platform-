@@ -16,9 +16,7 @@ function Home() {
       {/* Navbar */}
       <header className="bg-gray-900 text-white fixed w-full z-50 shadow-md">
         <nav className="container mx-auto flex items-center justify-between px-6 py-4">
-          <a className="text-2xl font-bold" href="#">
-            InvestSmart
-          </a>
+          <h3>InvestSmart</h3>
           <ul className="flex space-x-6">
             <li>
               <a className="hover:text-gray-400" href="#features">
