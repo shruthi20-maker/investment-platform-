@@ -78,8 +78,6 @@ $ npm start
   <p><b>Shruthi Thakur</b></p>
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shruthi%20Thakur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shruthi-thakur/)](https://www.linkedin.com/in/shruthi-thakur/)
-
 ---
 
 ## Learn More
