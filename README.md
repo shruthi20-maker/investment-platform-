@@ -85,6 +85,3 @@ $ npm start
 This project was created using **React**.  
 For more information, check the official [React documentation](https://reactjs.org/docs/getting-started.html).
 
----
-
-Let me know if you’d like to add images, video demo links, or contribution guidelines!
