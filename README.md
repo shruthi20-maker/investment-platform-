@@ -73,7 +73,7 @@ $ npm start
 
 ## Author
 
-<a href="https://www.linkedin.com/in/shruthi-thakur/">
+<a href="https://www.linkedin.com/in/shruthi-thakur-129943300/">
   <br />
   <p><b>Shruthi Thakur</b></p>
 </a>
